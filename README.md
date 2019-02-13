@@ -1,2 +1,2 @@
-# Kaggle-Submissions
-Repository for all the kaggle sumissions
+# ML
+Repository for all the submissions on different ML competitions
